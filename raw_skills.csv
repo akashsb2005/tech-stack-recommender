@@ -1,0 +1,41 @@
+skill_id,skill_name,category_id
+1,Python,1
+2,JavaScript,1
+3,TypeScript,1
+4,GoLang,1
+5,Rust,1
+6,Java,1
+7,C++,1
+8,React,2
+9,Vue,2
+10,Angular,2
+11,NextJS,2
+12,NodeJS,2
+13,Django,2
+14,FastAPI,2
+15,Docker,3
+16,Kubernetes,3
+17,AWS,3
+18,Terraform,3
+19,CI/CD,3
+20,Linux,3
+21,PostgreSQL,4
+22,MongoDB,4
+23,Redis,4
+24,SQL,4
+25,Machine Learning,4
+26,Deep Learning,4
+27,TensorFlow,4
+28,PyTorch,4
+29,Scikit-Learn,4
+30,Flutter,5
+31,Swift,5
+32,Kotlin,5
+33,iOS,5
+34,Android,5
+35,Web Design,2
+36,Frontend Development,2
+37,API Development,2
+38,Database Modeling,4
+39,Cloud Computing,3
+40,System Architecture,3

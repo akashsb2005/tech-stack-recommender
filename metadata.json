@@ -1,0 +1,6 @@
+{
+  "name": "Tech Stack Recommender",
+  "description": "An interactive content-based filtering recommendation engine that maps developer skills to career roles using TF-IDF and Cosine Similarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

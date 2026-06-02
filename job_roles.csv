@@ -1,0 +1,9 @@
+role_id,role_name,description,associated_skills,popularity_score
+1,Data Scientist,Builds ML models and analyzes complex statistics to extract business value.,"Python, SQL, Machine Learning, Deep Learning, PyTorch, TensorFlow, Scikit-Learn",95
+2,DevOps Engineer,Automates cloud infrastructure, build pipelines, and system reliability.,"Docker, Kubernetes, AWS, Terraform, CI/CD, Linux",88
+3,Backend Developer,Designs scalable APIs, server systems, and robust database architectures.,"Python, Django, FastAPI, NodeJS, PostgreSQL, MongoDB, Redis, SQL, API Development",92
+4,Frontend Developer,Builds rich, interactive customer-facing web applications.,"JavaScript, TypeScript, React, NextJS, Web Design, Frontend Development",90
+5,Fullstack Engineer,Coordinates full lifecycle web development from UI elements to data storage.,"JavaScript, TypeScript, React, NextJS, NodeJS, PostgreSQL, MongoDB, API Development",96
+6,Mobile Developer,Constructs performance-first native or cross-platform handset applications.,"TypeScript, Flutter, Swift, Kotlin, iOS, Android",81
+7,Cloud Architect,Designs and scales secure distributed enterprise architectures on public clouds.,"AWS, Docker, Kubernetes, Linux, Cloud Computing, System Architecture",85
+8,Cybersecurity Analyst,Safeguards enterprise assets against digital intrusions and malicious active exploits.,"Linux, Python, System Architecture, GoLang, Rust",78
